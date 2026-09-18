@@ -60,7 +60,7 @@ Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings 
 | [Bank Term Deposit Classification](https://github.com/Nair-Shreyas/applied-ml-classification) | Decision Tree / Random Forest / SVM pipeline with SMOTE and GridSearchCV |
 | [Exam Score Regression](https://github.com/Nair-Shreyas/exam-score-regression) | Predicting student outcomes with Linear Regression and SVR |
 | [Graph DB Recommendation Engine](https://github.com/Nair-Shreyas/graph-db-gdpr-analysis) | Neo4j graph model for article recommendations, with a GDPR compliance analysis |
-| [SQL — Car Leasing Database](https://github.com/Nair-Shreyas/sql-car-leasing-database) | Relational schema and analytical queries for a car leasing business |
+| [Car Leasing Database](https://github.com/Nair-Shreyas/car-leasing-database) | Normalized (3NF) relational schema with ER diagram and analytical SQL queries |
 | [Python Fundamentals](https://github.com/Nair-Shreyas/python-fundamentals) | Core scripts: tax calculator, converters, student records, palindrome checker |
 
 ---
