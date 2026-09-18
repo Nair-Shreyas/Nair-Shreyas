@@ -13,7 +13,7 @@
 
 ### About Me
 
-Business Analytics postgrad who likes turning messy data into decisions — comfortable moving between SQL, Python, ML models, and BI dashboards depending on what the problem actually needs.
+Business Analytics postgrad who likes turning messy data into decisions. Comfortable moving between SQL, Python, ML models, and BI dashboards depending on what the problem actually needs.
 
 ### Tools & Tech
 
