@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prasanna Syam Shreyas Nair 👋</h1>
+<h1 align="center">Hi, I'm Prasanna Syam Shreyas Nair</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Scientist;Business+Analyst;Turning+data+into+decisions" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 Business Analytics postgrad who likes turning messy data into decisions — comfortable moving between SQL, Python, ML models, and BI dashboards depending on what the problem actually needs.
 
-### 🛠️ Tools & Tech
+### Tools & Tech
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -30,7 +30,7 @@ Business Analytics postgrad who likes turning messy data into decisions — comf
 
 ---
 
-### 📌 Featured Project
+### Featured Project
 
 **[AWS Cost Optimization — Power BI](https://github.com/Nair-Shreyas/aws-cost-optimization-powerbi)**
 Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings opportunities across regions and instance types.
@@ -43,7 +43,7 @@ Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings 
 
 ---
 
-### 📂 More Projects
+### More Projects
 
 | Project | What it does |
 |---|---|
