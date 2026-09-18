@@ -30,32 +30,29 @@ Business Analytics postgrad who likes turning messy data into decisions — comf
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Project
+
+**[AWS Cost Optimization — Power BI](https://github.com/Nair-Shreyas/aws-cost-optimization-powerbi)**
+Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings opportunities across regions and instance types.
 
 <p align="center">
-  <a href="https://github.com/Nair-Shreyas/aws-cost-optimization-powerbi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nair-Shreyas&repo=aws-cost-optimization-powerbi&theme=default" /></a>
-  <a href="https://github.com/Nair-Shreyas/applied-ml-classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nair-Shreyas&repo=applied-ml-classification&theme=default" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Nair-Shreyas/graph-db-gdpr-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nair-Shreyas&repo=graph-db-gdpr-analysis&theme=default" /></a>
-  <a href="https://github.com/Nair-Shreyas/exam-score-regression"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nair-Shreyas&repo=exam-score-regression&theme=default" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Nair-Shreyas/aws-cost-forecasting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nair-Shreyas&repo=aws-cost-forecasting&theme=default" /></a>
-  <a href="https://github.com/Nair-Shreyas/sql-car-leasing-database"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nair-Shreyas&repo=sql-car-leasing-database&theme=default" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Nair-Shreyas/python-fundamentals"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nair-Shreyas&repo=python-fundamentals&theme=default" /></a>
+  <a href="https://github.com/Nair-Shreyas/aws-cost-optimization-powerbi">
+    <img src="https://raw.githubusercontent.com/Nair-Shreyas/aws-cost-optimization-powerbi/main/assets/dashboard-global-ec2-cost-intelligence.png" width="650" alt="AWS Cost Optimization Dashboard"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📂 More Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nair-Shreyas&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nair-Shreyas&layout=compact&theme=default&hide_border=true" />
-</p>
+| Project | What it does |
+|---|---|
+| [AWS Cost Forecasting](https://github.com/Nair-Shreyas/aws-cost-forecasting) | Forecasting and visualizing AWS cloud costs from usage data |
+| [Bank Term Deposit Classification](https://github.com/Nair-Shreyas/applied-ml-classification) | Decision Tree / Random Forest / SVM pipeline with SMOTE and GridSearchCV |
+| [Exam Score Regression](https://github.com/Nair-Shreyas/exam-score-regression) | Predicting student outcomes with Linear Regression and SVR |
+| [Graph DB Recommendation Engine](https://github.com/Nair-Shreyas/graph-db-gdpr-analysis) | Neo4j graph model for article recommendations, with a GDPR compliance analysis |
+| [SQL — Car Leasing Database](https://github.com/Nair-Shreyas/sql-car-leasing-database) | Relational schema and analytical queries for a car leasing business |
+| [Python Fundamentals](https://github.com/Nair-Shreyas/python-fundamentals) | Core scripts: tax calculator, converters, student records, palindrome checker |
 
 ---
 
