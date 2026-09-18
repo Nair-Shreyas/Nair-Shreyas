@@ -1,4 +1,4 @@
-# Hi, I'm Shreyas 👋
+# Hi, I'm Prasanna Syam Shreyas Nair 👋
 
 Business Analytics postgrad who likes turning messy data into decisions — comfortable moving between SQL, Python, ML models, and BI dashboards depending on what the problem actually needs.
 
