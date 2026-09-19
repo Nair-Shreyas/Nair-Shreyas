@@ -117,8 +117,7 @@ Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings 
 ### More Projects
 
 <p align="center">
-  
-| Project | What it does |
+  | Project | What it does |
 |---|---|
 | [AWS Cost Forecasting](https://github.com/Nair-Shreyas/aws-cost-forecasting) | Forecasting and visualizing AWS cloud costs from usage data |
 | [Bank Term Deposit Classification](https://github.com/Nair-Shreyas/applied-ml-classification) | Decision Tree / Random Forest / SVM pipeline with SMOTE and GridSearchCV |
@@ -126,7 +125,6 @@ Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings 
 | [Graph DB Recommendation Engine](https://github.com/Nair-Shreyas/graph-db-gdpr-analysis) | Neo4j graph model for article recommendations, with a GDPR compliance analysis |
 | [Car Leasing Database](https://github.com/Nair-Shreyas/car-leasing-database) | Normalized (3NF) relational schema with ER diagram and analytical SQL queries |
 | [Where It All Started](https://github.com/Nair-Shreyas/python-fundamentals) | Five beginner Python scripts, kept as a personal marker — not a skill showcase |
-
 </p>
 
 <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
