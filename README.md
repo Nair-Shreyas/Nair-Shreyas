@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/Ex--JPMorganChase-8F5A39?style=flat-square" />
 </p>
 
+<img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
+
 ### Tools & Tech
 
 **Languages & Engineering**
