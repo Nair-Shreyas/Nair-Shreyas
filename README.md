@@ -117,7 +117,7 @@ Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings 
 ### More Projects
 
   | Project | What it does |
-|---|---|
+|:---:|:---:|
 | [AWS Cost Forecasting](https://github.com/Nair-Shreyas/aws-cost-forecasting) | Forecasting and visualizing AWS cloud costs from usage data |
 | [Bank Term Deposit Classification](https://github.com/Nair-Shreyas/applied-ml-classification) | Decision Tree / Random Forest / SVM pipeline with SMOTE and GridSearchCV |
 | [Exam Score Regression](https://github.com/Nair-Shreyas/exam-score-regression) | Predicting student outcomes with Linear Regression and SVR |
