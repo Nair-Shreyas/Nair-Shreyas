@@ -106,6 +106,12 @@ Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings 
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Nair-Shreyas/aws-cost-optimization-powerbi">
+    <img src="https://raw.githubusercontent.com/Nair-Shreyas/aws-cost-optimization-powerbi/main/assets/dashboard-instance-pricing-analysis.png" width="650" alt="Instance Pricing Analysis Dashboard"/>
+  </a>
+</p>
+
 <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
 
 ### More Projects
