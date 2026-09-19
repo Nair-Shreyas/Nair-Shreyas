@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shreyasnair1998@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:shreyasnair1998@gmail.com"><img src="https://img.shields.io/badge/Email%3A%20%20shreyasnair1998%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+353892064414"><img src="https://img.shields.io/badge/Contact%20No.%3A%20%20%2B353%2089%20206%204414-25D366?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik02LjYgMTAuOGMxLjQgMi43IDMuNiA1IDYuMyA2LjNsMi4xLTIuMWMuMy0uMy43LS40IDEtLjIgMS4xLjQgMi4zLjYgMy41LjYuNiAwIDEgLjQgMSAxVjIwYzAgLjYtLjQgMS0xIDEtOS40IDAtMTctNy42LTE3LTE3IDAtLjYuNC0xIDEtMWgzLjVjLjYgMCAxIC40IDEgMSAwIDEuMi4yIDIuNC42IDMuNS4xLjMgMCAuNy0uMiAxeiIvPjwvc3ZnPgo%3D" /></a>
   <a href="https://www.linkedin.com/in/psshreyasnair/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iOSIgd2lkdGg9IjQiIGhlaWdodD0iMTIiIGZpbGw9IndoaXRlIi8%2BPGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjIuNSIgZmlsbD0id2hpdGUiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTkgOWg0djIuMmMxLTEuNiAyLjctMi42IDQuOC0yLjYgNCAwIDUuMiAyLjQgNS4yIDYuNFYyMWgtNHYtNS4zYzAtMS43IDAtMy45LTIuNC0zLjlzLTIuOCAxLjgtMi44IDMuOFYyMUg5eiIvPjwvc3ZnPgo%3D" /></a>
 </p>
 
