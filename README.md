@@ -50,6 +50,14 @@
   <img src="https://img.shields.io/badge/Autonomous_Vehicles-334155?style=for-the-badge" />
 </p>
 
+**GenAI & LLMs**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG_Pipelines-C2410C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_APIs-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-15803D?style=for-the-badge" />
+</p>
+
 **Frameworks & Data Tools**
 
 <p align="left">
