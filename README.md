@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prasanna Syam Shreyas Nair</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1500&pause=300&color=FF6B1A&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Scientist;Business+Analyst;Turning+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1500&pause=300&color=FF6B1A&center=true&vCenter=true&width=600&lines=Data+Analyst;Business+Analyst;Turning+data+into+decisions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 > Business Analytics postgrad who likes turning messy data into decisions. Comfortable moving between SQL, Python, ML models, and BI dashboards depending on what the problem actually needs.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Dublin,_Ireland-7a4a12?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dublin,_Ireland-1a5c3a?style=flat-square" />
   <img src="https://img.shields.io/badge/MSc_Business_Analytics-c9440c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ex--JPMorganChase-8a1a0a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ex--JPMorganChase-000000?style=flat-square" />
 </p>
 
 ### Tools & Tech
