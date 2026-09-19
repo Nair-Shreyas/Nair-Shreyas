@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:shreyasnair1998@gmail.com"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/contact_badges/email.png" height="30" /></a>
   <a href="tel:+353892064414"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/contact_badges/phone.png" height="30" /></a>
-  <a href="https://www.linkedin.com/in/psshreyasnair/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iOSIgd2lkdGg9IjQiIGhlaWdodD0iMTIiIGZpbGw9IndoaXRlIi8%2BPGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjIuNSIgZmlsbD0id2hpdGUiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTkgOWg0djIuMmMxLTEuNiAyLjctMi42IDQuOC0yLjYgNCAwIDUuMiAyLjQgNS4yIDYuNFYyMWgtNHYtNS4zYzAtMS43IDAtMy45LTIuNC0zLjlzLTIuOCAxLjgtMi44IDMuOFYyMUg5eiIvPjwvc3ZnPgo%3D" /></a>
+  <a href="https://www.linkedin.com/in/psshreyasnair/"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/contact_badges/linkedin.png" height="30" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
