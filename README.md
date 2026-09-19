@@ -131,4 +131,4 @@ Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings 
 
 <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
 
-<p align="center"><i>Open to Data Analyst, Data Scientist, and Business Analyst roles — always happy to chat.</i></p>
+<p align="center"><i>Open to Business Analyst, Data Analyst and Data Scientist roles. Always happy to chat.</i></p>
