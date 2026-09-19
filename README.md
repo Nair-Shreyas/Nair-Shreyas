@@ -88,6 +88,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/1_oracle_analytics_cloud_professional.png" alt="Oracle Analytics Cloud 2025 Certified Professional" title="Oracle Analytics Cloud 2025 Certified Professional" width="400" />
+  [Credentials: xxxx][(https://github.com/Nair-Shreyas/aws-cost-optimization-powerbi)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A103F660DB56BA8AF0A1346D6604E777AF95DD999E07D18DB85BEEB2EAA968E6)
   <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/2_oracle_database_aws_architect_professional.png" alt="Oracle Database @ AWS Certified Architect Professional" title="Oracle Database @ AWS Certified Architect Professional" width="400" />
   <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/3_oci_ai_foundations_associate.png" alt="OCI 2025 Certified AI Foundations Associate" title="OCI 2025 Certified AI Foundations Associate" width="400" />
   <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/4_oracle_data_platform_foundations_associate.png" alt="Oracle Data Platform 2025 Certified Foundations Associate" title="Oracle Data Platform 2025 Certified Foundations Associate" width="400" />
