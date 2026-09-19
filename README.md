@@ -78,7 +78,7 @@
 
 ### Certifications
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/1_oracle_analytics_cloud_professional.png" alt="Oracle Analytics Cloud 2025 Certified Professional" title="Oracle Analytics Cloud 2025 Certified Professional" width="400" />
   <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/2_oracle_database_aws_architect_professional.png" alt="Oracle Database @ AWS Certified Architect Professional" title="Oracle Database @ AWS Certified Architect Professional" width="400" />
   <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/3_oci_ai_foundations_associate.png" alt="OCI 2025 Certified AI Foundations Associate" title="OCI 2025 Certified AI Foundations Associate" width="400" />
