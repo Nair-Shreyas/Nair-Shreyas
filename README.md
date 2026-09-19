@@ -19,7 +19,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Dublin,_Ireland-7a4a12?style=flat-square" />
   <img src="https://img.shields.io/badge/MSc_Business_Analytics-c9440c?style=flat-square" />
-  <img src="https://img.shields.io/badge/7_Projects-8a1a0a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ex--JPMorganChase-8a1a0a?style=flat-square" />
 </p>
 
 ### Tools & Tech
