@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prasanna Syam Shreyas Nair</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1500&pause=300&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Scientist;Business+Analyst;Turning+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1500&pause=300&color=FF6B1A&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Scientist;Business+Analyst;Turning+data+into+decisions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,11 +10,17 @@
   <a href="https://www.linkedin.com/in/psshreyasnair/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iOSIgd2lkdGg9IjQiIGhlaWdodD0iMTIiIGZpbGw9IndoaXRlIi8%2BPGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjIuNSIgZmlsbD0id2hpdGUiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTkgOWg0djIuMmMxLTEuNiAyLjctMi42IDQuOC0yLjYgNCAwIDUuMiAyLjQgNS4yIDYuNFYyMWgtNHYtNS4zYzAtMS43IDAtMy45LTIuNC0zLjlzLTIuOCAxLjgtMi44IDMuOFYyMUg5eiIvPjwvc3ZnPgo%3D" /></a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
 
 ### About Me
 
-Business Analytics postgrad who likes turning messy data into decisions. Comfortable moving between SQL, Python, ML models, and BI dashboards depending on what the problem actually needs.
+> Business Analytics postgrad who likes turning messy data into decisions. Comfortable moving between SQL, Python, ML models, and BI dashboards depending on what the problem actually needs.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Dublin,_Ireland-7a4a12?style=flat-square" />
+  <img src="https://img.shields.io/badge/MSc_Business_Analytics-c9440c?style=flat-square" />
+  <img src="https://img.shields.io/badge/7_Projects-8a1a0a?style=flat-square" />
+</p>
 
 ### Tools & Tech
 
@@ -75,7 +81,7 @@ Business Analytics postgrad who likes turning messy data into decisions. Comfort
   <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/4_oracle_data_platform_foundations_associate.png" alt="Oracle Data Platform 2025 Certified Foundations Associate" title="Oracle Data Platform 2025 Certified Foundations Associate" width="400" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
 
 ### Featured Project
 
@@ -88,7 +94,7 @@ Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings 
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
 
 ### More Projects
 
@@ -101,6 +107,6 @@ Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings 
 | [Car Leasing Database](https://github.com/Nair-Shreyas/car-leasing-database) | Normalized (3NF) relational schema with ER diagram and analytical SQL queries |
 | [Python Fundamentals](https://github.com/Nair-Shreyas/python-fundamentals) | Core scripts: tax calculator, converters, student records, palindrome checker |
 
----
+<img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
 
 <p align="center"><i>Open to Data Analyst, Data Scientist, and Business Analyst roles — always happy to chat.</i></p>
