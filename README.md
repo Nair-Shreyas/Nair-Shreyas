@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prasanna Syam Shreyas Nair</h1>
+<h1 align="center">Hi, I'm <i>Prasanna Syam Shreyas Nair</i></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1500&pause=300&color=FF6B1A&center=true&vCenter=true&width=600&lines=Business+Analyst;Data+Analyst;Turning+data+into+decisions" alt="Typing SVG" />
