@@ -86,27 +86,28 @@
 
 ### Certifications
 
-### Certifications
-
-<p align="center">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A103F660DB56BA8AF0A1346D6604E777AF95DD999E07D18DB85BEEB2EAA968E6"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/1_oracle_analytics_cloud_professional.png" alt="Oracle Analytics Cloud 2025 Certified Professional" title="Oracle Analytics Cloud 2025 Certified Professional" width="400" /></a><br/>
+<table>
+<tr>
+<td align="center" width="50%">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A103F660DB56BA8AF0A1346D6604E777AF95DD999E07D18DB85BEEB2EAA968E6"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/1_oracle_analytics_cloud_professional.png" alt="Oracle Analytics Cloud 2025 Certified Professional" title="Oracle Analytics Cloud 2025 Certified Professional" width="380" /></a><br/>
   Credential: <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A103F660DB56BA8AF0A1346D6604E777AF95DD999E07D18DB85BEEB2EAA968E6">323413110OCIEA25OCP</a>
-</p>
-
-<p align="center">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0204A88DC868A782D3BB38D75FFB1115B0CDAFDB895E142F3386D50A5B1B2362"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/2_oracle_database_aws_architect_professional.png" alt="Oracle Database @ AWS Certified Architect Professional" title="Oracle Database @ AWS Certified Architect Professional" width="400" /></a><br/>
+</td>
+<td align="center" width="50%">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0204A88DC868A782D3BB38D75FFB1115B0CDAFDB895E142F3386D50A5B1B2362"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/2_oracle_database_aws_architect_professional.png" alt="Oracle Database @ AWS Certified Architect Professional" title="Oracle Database @ AWS Certified Architect Professional" width="380" /></a><br/>
   Credential: <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0204A88DC868A782D3BB38D75FFB1115B0CDAFDB895E142F3386D50A5B1B2362">323413110ODBAWSOCP</a>
-</p>
-
-<p align="center">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F0DDABDA6EAA643B41C91322687360892385A844E80CBDDC74E34297E5E40825"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/3_oci_ai_foundations_associate.png" alt="OCI 2025 Certified AI Foundations Associate" title="OCI 2025 Certified AI Foundations Associate" width="400" /></a><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F0DDABDA6EAA643B41C91322687360892385A844E80CBDDC74E34297E5E40825"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/3_oci_ai_foundations_associate.png" alt="OCI 2025 Certified AI Foundations Associate" title="OCI 2025 Certified AI Foundations Associate" width="380" /></a><br/>
   Credential: <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F0DDABDA6EAA643B41C91322687360892385A844E80CBDDC74E34297E5E40825">323413110OCI25AICFA</a>
-</p>
-
-<p align="center">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=02E4D2180D3301B28CB6D9DD418A85A405424CC6DFD3ED65FA883E08F4C4D6B4"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/4_oracle_data_platform_foundations_associate.png" alt="Oracle Data Platform 2025 Certified Foundations Associate" title="Oracle Data Platform 2025 Certified Foundations Associate" width="400" /></a><br/>
+</td>
+<td align="center" width="50%">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=02E4D2180D3301B28CB6D9DD418A85A405424CC6DFD3ED65FA883E08F4C4D6B4"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/4_oracle_data_platform_foundations_associate.png" alt="Oracle Data Platform 2025 Certified Foundations Associate" title="Oracle Data Platform 2025 Certified Foundations Associate" width="380" /></a><br/>
   Credential: <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=02E4D2180D3301B28CB6D9DD418A85A405424CC6DFD3ED65FA883E08F4C4D6B4">323413110OCI25DCFA</a>
-</p>
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
 
