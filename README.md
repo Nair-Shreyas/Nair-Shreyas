@@ -95,7 +95,7 @@
 
 <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
 
-### Featured Project
+### Featured Projects
 
 **[AWS Cost Optimization — Power BI](https://github.com/Nair-Shreyas/aws-cost-optimization-powerbi)**
 Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings opportunities across regions and instance types.
@@ -109,6 +109,15 @@ Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings 
 <p align="center">
   <a href="https://github.com/Nair-Shreyas/aws-cost-optimization-powerbi">
     <img src="https://raw.githubusercontent.com/Nair-Shreyas/aws-cost-optimization-powerbi/main/assets/dashboard-instance-pricing-analysis.png" width="650" alt="Instance Pricing Analysis Dashboard"/>
+  </a>
+</p>
+
+**[Multimodal Driving Risk Prediction — MSc Research](https://github.com/Nair-Shreyas/driving-risk-dissertation-archive)**
+Explainable machine learning on the NVIDIA PhysicalAI Autonomous Vehicles dataset: ego-motion, time-of-day context, YOLOv8 object counts and ResNet-50 / ViT-B/16 image embeddings combined in a tuned XGBoost model (test ROC-AUC 0.9387), explained with SHAP and ablation studies, with a 5-minute reproducible demo.
+
+<p align="center">
+  <a href="https://github.com/Nair-Shreyas/driving-risk-dissertation-archive">
+    <img src="https://raw.githubusercontent.com/Nair-Shreyas/driving-risk-dissertation-archive/main/docs/images/project_overview.png" width="650" alt="Multimodal Driving Risk Prediction"/>
   </a>
 </p>
 
