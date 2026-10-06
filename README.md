@@ -97,7 +97,7 @@
 
 ### Featured Projects
 
-**[AWS Cost Optimization — Power BI](https://github.com/Nair-Shreyas/aws-cost-optimization-powerbi)**
+**[AWS Cost Optimization (Power BI)](https://github.com/Nair-Shreyas/aws-cost-optimization-powerbi)**
 Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings opportunities across regions and instance types.
 
 <p align="center">
@@ -112,7 +112,7 @@ Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings 
   </a>
 </p>
 
-**[Multimodal Driving Risk Prediction — MSc Research](https://github.com/Nair-Shreyas/multimodal-driving-risk-prediction)**
+**[Multimodal Driving Risk Prediction (MSc Research)](https://github.com/Nair-Shreyas/multimodal-driving-risk-prediction)**
 Explainable machine learning on the NVIDIA PhysicalAI Autonomous Vehicles dataset: ego-motion, time-of-day context, YOLOv8 object counts and ResNet-50 / ViT-B/16 image embeddings combined in a tuned XGBoost model (test ROC-AUC 0.9387), explained with SHAP and ablation studies, with a 5-minute reproducible demo.
 
 <p align="center">
@@ -134,7 +134,7 @@ Explainable machine learning on the NVIDIA PhysicalAI Autonomous Vehicles datase
 | [Exam Score Regression](https://github.com/Nair-Shreyas/exam-score-regression) | Predicting student outcomes with Linear Regression and SVR |
 | [Graph DB Recommendation Engine](https://github.com/Nair-Shreyas/graph-db-gdpr-analysis) | Neo4j graph model for article recommendations, with a GDPR compliance analysis |
 | [Car Leasing Database](https://github.com/Nair-Shreyas/car-leasing-database) | Normalized (3NF) relational schema with ER diagram and analytical SQL queries |
-| [Where It All Started](https://github.com/Nair-Shreyas/python-fundamentals) | Five beginner Python scripts, kept as a personal marker — not a skill showcase |
+| [Where It All Started](https://github.com/Nair-Shreyas/python-fundamentals) | Five beginner Python scripts, kept as a personal marker, not a skill showcase |
 
 </div>
 
