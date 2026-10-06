@@ -112,12 +112,12 @@ Interactive dashboard analyzing global EC2 pricing, cost anomalies, and savings 
   </a>
 </p>
 
-**[Multimodal Driving Risk Prediction — MSc Research](https://github.com/Nair-Shreyas/driving-risk-dissertation-archive)**
+**[Multimodal Driving Risk Prediction — MSc Research](https://github.com/Nair-Shreyas/multimodal-driving-risk-prediction)**
 Explainable machine learning on the NVIDIA PhysicalAI Autonomous Vehicles dataset: ego-motion, time-of-day context, YOLOv8 object counts and ResNet-50 / ViT-B/16 image embeddings combined in a tuned XGBoost model (test ROC-AUC 0.9387), explained with SHAP and ablation studies, with a 5-minute reproducible demo.
 
 <p align="center">
-  <a href="https://github.com/Nair-Shreyas/driving-risk-dissertation-archive">
-    <img src="https://raw.githubusercontent.com/Nair-Shreyas/driving-risk-dissertation-archive/main/docs/images/project_overview.png" width="650" alt="Multimodal Driving Risk Prediction"/>
+  <a href="https://github.com/Nair-Shreyas/multimodal-driving-risk-prediction">
+    <img src="https://raw.githubusercontent.com/Nair-Shreyas/multimodal-driving-risk-prediction/main/docs/images/project_overview.png" width="650" alt="Multimodal Driving Risk Prediction"/>
   </a>
 </p>
 
