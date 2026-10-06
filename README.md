@@ -117,7 +117,7 @@ Explainable machine learning on the NVIDIA PhysicalAI Autonomous Vehicles datase
 
 <p align="center">
   <a href="https://github.com/Nair-Shreyas/multimodal-driving-risk-prediction">
-    <img src="https://raw.githubusercontent.com/Nair-Shreyas/multimodal-driving-risk-prediction/main/docs/images/project_overview.png" width="650" alt="Multimodal Driving Risk Prediction"/>
+    <img src="https://raw.githubusercontent.com/Nair-Shreyas/multimodal-driving-risk-prediction/main/docs/images/project_overview-profile.png" width="650" alt="Multimodal Driving Risk Prediction"/>
   </a>
 </p>
 
