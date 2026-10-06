@@ -14,11 +14,11 @@
 
 ### About Me
 
-> Business Analytics postgrad who likes turning messy data into decisions. Comfortable moving between SQL, Python, ML models, and BI dashboards depending on what the problem actually needs.
+> Ex-JPMorganChase with a First Class Honours MSc in Business Analytics, who likes turning messy data into decisions. Comfortable moving between SQL, Python, ML models, and BI dashboards depending on what the problem actually needs.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dublin,_Ireland-1a5c3a?style=flat-square" />
-  <img src="https://img.shields.io/badge/MSc_Business_Analytics-c9440c?style=flat-square" />
+  <img src="https://img.shields.io/badge/MSc_Business_Analytics_%C2%B7_First_Class_Honours-c9440c?style=flat-square" />
   <img src="https://img.shields.io/badge/Ex--JPMorganChase-8F5A39?style=flat-square" />
 </p>
 
