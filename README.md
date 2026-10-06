@@ -1,4 +1,4 @@
-<h1 align="center"><i>Hi, I'm Prasanna Syam Shreyas Nair</i></h1>
+<h1 align="center"><i>Hi, I'm Prasanna Syam Shreyas Nair</i> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/signature/pssn_white.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/signature/pssn_dark.png"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/signature/pssn_dark.png" height="42" align="absmiddle" alt="PSSN signature"></picture></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1500&pause=300&color=FF6B1A&center=true&vCenter=true&width=600&lines=Business+Analyst;Data+Analyst;Turning+data+into+decisions" alt="Typing SVG" />
@@ -141,3 +141,7 @@ Explainable machine learning on the NVIDIA PhysicalAI Autonomous Vehicles datase
 <img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
 
 <p align="center"><i>Open to Business Analyst, Data Analyst and Data Scientist roles. Always happy to chat.</i></p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/signature/pssn_white.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/signature/pssn_dark.png"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/signature/pssn_dark.png" width="90" alt="PSSN signature"></picture>
+</p>
