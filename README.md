@@ -1,4 +1,6 @@
-<h1 align="center"><i>Hi, I'm <ins>Prasanna Syam Shreyas Nair</ins></i> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/signature/pssn_white.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/signature/pssn_dark.png"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/signature/pssn_dark.png" height="42" align="absmiddle" alt="PSSN signature"></picture></h1>
+<p align="center"><i>Hi, I'm</i></p>
+
+<h1 align="center"><i>Prasanna Syam Shreyas Nair</i> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/signature/pssn_white.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/signature/pssn_dark.png"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/signature/pssn_dark.png" height="42" align="absmiddle" alt="PSSN signature"></picture></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=1500&pause=300&color=FF6B1A&center=true&vCenter=true&width=600&lines=Business+Analyst;Data+Analyst;Turning+data+into+decisions" alt="Typing SVG" />
