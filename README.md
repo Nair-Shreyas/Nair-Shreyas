@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/psshreyasnair/"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/contact_badges/linkedin.png" height="30" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider_light.png"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider_light.png" width="100%" height="4" alt=""></picture>
 
 ### About Me
 
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Ex--JPMorganChase-8F5A39?style=flat-square" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider_light.png"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider_light.png" width="100%" height="4" alt=""></picture>
 
 ### Tools & Tech
 
@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRpdGxlPkh1Z2dpbmcgRmFjZTwvdGl0bGU%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxLjFBMTAuNCAxMC40IDAgMCAwIDIgMTQuN2wuNS0uNi41LS4xcS41IDAgLjkuMmwuNy43LjcgMXEwLS41LjItLjl0LjgtLjUuOC4ybC40LjQuMi42YTkgOSAwIDAgMCAxLjcgMi41cTEgLjkgMSAyIDAgLjgtLjMgMS41YTExIDExIDAgMCAwIDMuOCAwcS0uNC0uNy0uMy0xLjYgMC0xIDEtMS45YTkgOSAwIDAgMCAyLTNxMC0uMy4zLS41bC44LS4ycS41LjEuOC41dC4yLjlsLjctMSAuNy0uNi45LS4zLjUuMS40LjZhMTAgMTAgMCAwIDAgLjYtMy4yYzAtNS43LTQuNy0xMC40LTEwLjUtMTAuNE04LjMgNi42bC43LjJhMS41IDEuNSAwIDAgMSAuNyAyYy0uMi4zLS44LS4yLTEuMS0uMXMtLjYuOS0xIC43YTEuNSAxLjUgMCAwIDEgLjctMi44bTcuNSAwYTEuNSAxLjUgMCAwIDEgLjcgMi44Yy0uNC4yLS41LS42LTEtLjctLjMtLjEtLjguNC0xIDBhMS41IDEuNSAwIDAgMSAuNi0yek01LjEgOGExIDEgMCAxIDEgMCAyIDEgMSAwIDAgMSAwLTJNMTkgOGExIDEgMCAxIDEgMCAyIDEgMSAwIDAgMSAwLTJNOC41IDExLjVjLjYgMCAyIDEuMSAzLjYgMS4xczMtMS4xIDMuNS0xLjFxLjMtLjEuMy40YzAgLjktLjQgMi4zLTEuNSAzLjItLjItLjctMS40LTEuNC0xLjctMS4zbC0uMS4xdi4xaC0uMWwtLjEuMnYuMmwtLjMuMS0uMy0uMi0uNC0uNWgtLjJsLS4yLjFoLS4xbC0uMi4xLS4xLjEtLjEuMS0uMy4yLS4xLjJIMTB2LjFsLS4xLjEtLjEuMnYuMUE0IDQgMCAwIDEgOC4xIDEycTAtLjQuMy0uNG0uOCAxMC4zcTEuMy0xLjYtLjMtMy4yYy0xLjItMS0xLjgtMi43LTEuOC0yLjdzLS4zLTEtLjgtLjktMSAxLjUuMiAyLjQtLjMgMS40LS43LjZjLS41LS44LTEuNy0yLjktMi4zLTMuM3MtMS4xLS4xLTEgLjcgMi44IDIuOCAyLjYgMy4yLTEuMi0uNS0xLjItLjVTMSAxNS42LjQgMTYuM3MuNSAxLjIgMiAyLjJjMS42IDEgMS43IDEuMiAxLjUgMS41cy0zLjctMi41LTQtMS4zIDMuNSAxLjYgMy4zIDIuNEMzIDIyIC41IDE5LjUgMCAyMC41czMuNSAyIDMuNSAyYzEuMy40IDQuNiAxIDUuNy0uNm01LjQgMGMtLjgtMS4yLS44LTIgLjMtMy4yIDEuMi0xIDEuOC0yLjcgMS44LTIuN3MuMy0xIC44LS45IDEgMS41LS4yIDIuNC4zIDEuNC43LjZjLjUtLjggMS43LTIuOSAyLjMtMy4zczEuMS0uMSAxIC43LTIuOCAyLjgtMi42IDMuMiAxLjItLjUgMS4yLS41IDIuOS0yLjYgMy41LTEuOS0uNSAxLjItMiAyLjJjLTEuNiAxLTEuNyAxLjItMS41IDEuNXMzLjctMi41IDQtMS4zLTMuNSAxLjYtMy4zIDIuNGMuMi45IDIuNy0xLjYgMy4yLS42cy0zLjUgMi0zLjUgMmMtMS4zLjQtNC42IDEtNS43LS42Ii8%2BPC9zdmc%2B" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider_light.png"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider_light.png" width="100%" height="4" alt=""></picture>
 
 ### Certifications
 
@@ -93,7 +93,7 @@
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=02E4D2180D3301B28CB6D9DD418A85A405424CC6DFD3ED65FA883E08F4C4D6B4"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/certifications/4_oracle_data_platform_foundations_associate.png" alt="Oracle Data Platform 2025 Certified Foundations Associate" title="Oracle Data Platform 2025 Certified Foundations Associate" width="380" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider_light.png"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider_light.png" width="100%" height="4" alt=""></picture>
 
 ### Featured Projects
 
@@ -121,7 +121,7 @@ Explainable machine learning on the NVIDIA PhysicalAI Autonomous Vehicles datase
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider_light.png"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider_light.png" width="100%" height="4" alt=""></picture>
 
 ### More Projects
 
@@ -138,7 +138,7 @@ Explainable machine learning on the NVIDIA PhysicalAI Autonomous Vehicles datase
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png" width="100%" height="4" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider_light.png"><img src="https://raw.githubusercontent.com/Nair-Shreyas/Nair-Shreyas/main/divider_light.png" width="100%" height="4" alt=""></picture>
 
 <p align="center"><i>Open to Business Analyst, Data Analyst and Data Scientist roles. Always happy to chat.</i></p>
 
